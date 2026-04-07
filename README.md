@@ -72,5 +72,6 @@ terraform destroy
 - **Website Configuration** — habilita o modo site estático
 - **Bucket Policy** — permite acesso anônimo aos arquivos
 - **S3 Objects** — faz upload do `index.html` e `error.html`
+- **CloudFront** — adiciona um CDN com cloudfront
 
 ---
