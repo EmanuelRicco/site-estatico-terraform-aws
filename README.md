@@ -1,8 +1,6 @@
 # Site Estático na AWS com Terraform
 
-Projeto prático para aprender a provisionar infraestrutura na AWS usando Terraform — hospedando um site estático no S3 e cloudfront.
-
-> Ideal para quem está começando com IaC (Infrastructure as Code) e quer um projeto real no portfólio.
+Projeto prático para aprender a provisionar infraestrutura na AWS usando Terraform hospedando um site estático no S3 e cloudfront.
 
 ---
 
